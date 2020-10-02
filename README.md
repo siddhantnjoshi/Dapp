@@ -1,2 +1,2 @@
 # Dapp
-DAPP
+DAPP that is Decentralised app with Ethereum
